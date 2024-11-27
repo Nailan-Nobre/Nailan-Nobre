@@ -10,7 +10,7 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 - JavaScript
 - Python
 
-### 🔥 Meus projetos
+## 🔥 Meus projetos
 - [Pretty Nails](https://nailan-nobre.github.io/Projeto-pretty-nails/www/cadastro-e-login.html) é um app de agendamento eficiente com manicures da sua região, atualmente o app está na fase inicial do desenvolvimento, mas fique atento para as atualizações.
 
 ## Meus Objetivos
