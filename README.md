@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou Nailan!
 
-<!--
-**Nailan-Nobre/Nailan-Nobre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou aprendendo a programar no tal do **IFPI Picos**.
 
-Here are some ideas to get you started:
+![Fantasia](https://media.giphy.com/media/l3vR8U9VuoS0YXX9u/giphy.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou aprendendo
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## Meus Objetivos
+- Melhorar minhas habilidades de programação
+- Contribuir para projetos de código aberto
+- Aprender novas tecnologias
+
+![Aventura](https://media.giphy.com/media/2t9mb0L8QX9MkpqKWE/giphy.gif)
+
+![Magia em Pixel Art](https://media.giphy.com/media/l1J9wNv89Z4pKNuRy/giphy.gif)
