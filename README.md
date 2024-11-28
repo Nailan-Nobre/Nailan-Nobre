@@ -18,4 +18,6 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 - Me aperfeiçoar nas linguagens que já conheço
 - Contribuir para projetos.
 
-<img src="https://media4.giphy.com/media/zZ7Vb5GC9KPCJ5Wn7h/giphy.gif?cid=790b7611267e62e4c449711c20025ff8477300c51060635c&rid=giphy.gif&ct=s" width="200" alt="outro-dancante">
+<img src="https://media.tenor.com/vMnZikws3OgAAAAj/cat-pixel.gif" width="200" alt="outro-dancante">
+
+É isso 🤙
