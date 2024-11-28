@@ -15,7 +15,6 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 
 ## Meus Objetivos
 - Melhorar minhas habilidades de programação
-- Me aperfeiçoar nas linguagens que já conheço
 - Contribuir para projetos.
 
 <img src="https://media.tenor.com/vMnZikws3OgAAAAj/cat-pixel.gif" width="200" alt="outro-dancante">
