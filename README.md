@@ -17,6 +17,6 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 - Melhorar minhas habilidades de programação
 - Contribuir para projetos.
 
-<img src="https://tenor.com/bZVGf.gif" width="200" alt="outro-dancante">
+<img src="https://media.tenor.com/p7b1fFLdgdgAAAAj/woo-happy.gif" width="200" alt="outro-dancante">
 
 É isso 🤙
