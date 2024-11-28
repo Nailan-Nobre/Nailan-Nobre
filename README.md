@@ -17,7 +17,7 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 - Melhorar minhas habilidades de programação;
 - Contribuir para projetos.
 
-<img src="https://i.gifer.com/origin/93/931d45c11cee8a6733ca840cbd6bac74_w200.webp" width="200" alt="outro-dancante">
+<img src="https://i.gifer.com/origin/bc/bcbb9ef33e46f728908acea171722f83_w200.webp" width="200" alt="gato">
 
 É isso 🤙.
 - Ouvi dizer que esse cara aí desenha deveras: [N2il2n](https://www.instagram.com/n2il2n/)
