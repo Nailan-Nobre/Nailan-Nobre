@@ -11,9 +11,9 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 ## 📊 **My Stats**
 
 <div display-felx: colunm;>
-  <img alt="Top Languages" align="left" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailan-Nobre&layout=compact&langs_count=10&theme=dark"/>
+  <img alt="Top Languages" align="left" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailan-Nobre&layout=compact&langs_count=10&theme=dark"/>
 
-  <img alt="Nailan-Nobre GitHub Stats" align="left" width="200" src="https://github-readme-stats.vercel.app/api?username=Nailan-Nobre &show_icons=true&theme=dark"/>
+  <img alt="Nailan-Nobre GitHub Stats" align="left" width="150" src="https://github-readme-stats.vercel.app/api?username=Nailan-Nobre&show_icons=true&theme=dark"/>
 
 </div>
 
