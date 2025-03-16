@@ -6,7 +6,7 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 
 ## 👨‍💻 linguagens que uso
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,já,py,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,py,)](https://skillicons.dev)
 
 ## 📊 **My Stats**
 
@@ -14,6 +14,7 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
   <img alt="Top Languages" align="left" width="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailan-Nobre&layout=compact&langs_count=10&theme=dark"/>
 
   <img alt="Nailan-Nobre GitHub Stats" align="left" width="100" src="https://github-readme-stats.vercel.app/api?username=Nailan-Nobre &show_icons=true&theme=dark"/>
+
 </div>
 
 ## 🔥 Meus projetos
