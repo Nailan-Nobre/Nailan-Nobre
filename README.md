@@ -10,10 +10,10 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 
 ## 📊 **My Stats**
 
-<div align: center; margin-bottom: 20px;>
-  <img alt="Top Languages" align="left" width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailan-Nobre&layout=compact&langs_count=10&theme=dark"/>
+<div align: center;>
+  <img alt="Top Languages" align="left" width="49.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nailan-Nobre&layout=compact&langs_count=10&theme=dark"/>
 
-  <img alt="Nailan-Nobre GitHub Stats" align="left" width="150" src="https://github-readme-stats.vercel.app/api?username=Nailan-Nobre&show_icons=true&theme=dark"/>
+  <img alt="Nailan-Nobre GitHub Stats" align="left" width="51.9%" src="https://github-readme-stats.vercel.app/api?username=Nailan-Nobre&show_icons=true&theme=dark"/>
 
 </div>
 
