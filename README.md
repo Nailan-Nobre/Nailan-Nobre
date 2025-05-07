@@ -8,7 +8,7 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 
 ### 👨‍💻 Linguagens que estou aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,react)](https://skillicons.dev)
 
 ---
 
