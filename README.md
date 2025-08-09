@@ -21,7 +21,7 @@ Estou aprendendo a programar no tal do **IFPI Picos**.
 
 ## 🔥 Meus projetos
 
-- [Pretty Nails](https://pretty-nails-app.vercel.app/) é um app de agendamento eficiente com manicures da sua região. Atualmente o app está na fase inicial do desenvolvimento, mas fique atento para as atualizações.
+- [Pretty Nails](https://fib-pretty-nails.vercel.app/) é um app de agendamento eficiente com manicures da sua região. Atualmente o app está na fase inicial do desenvolvimento, mas fique atento para as atualizações.
 
 ---
 
