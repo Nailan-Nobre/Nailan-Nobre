@@ -1,4 +1,4 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=false&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+Nailan+Nobre;Fique+%C3%A0+vontade+para+olhar;Boa+visita!" alt="Typing SVG" />
+### 👋Olá, me chamo Nailan.
 
 Estou aprendendo a programar no tal do **IFPI Picos**.
 
