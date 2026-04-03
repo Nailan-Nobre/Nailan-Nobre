@@ -1,37 +1,61 @@
-### 👋Olá, me chamo Nailan.
+<div align="center">
+	<table border="1" cellspacing="0" cellpadding="18" width="900">
+	<tr>
+	<td align="left">
 
-Sou aluno do **Instituto Federal do Piauí em Picos**.
+<h3>👋 Olá, me chamo Nailan.</h3>
 
----
+<p>Sou aluno do <strong>Instituto Federal do Piauí em Picos</strong>.</p>
 
-### 👨‍💻 Linguagens que estou aprendendo
+<hr>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,py,java,react)](https://skillicons.dev)
+<h3>👨‍💻 Linguagens que estou aprendendo</h3>
 
----
+<p>
+	<a href="https://skillicons.dev">
+	<img src="https://skillicons.dev/icons?i=html,css,js,c,py,java,react" alt="My Skills" />
+	</a>
+</p>
 
-### 📊 **My Stats**
+<hr>
 
-![Nailan-Nobre GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nailan-Nobre&show_icons=true&theme=dark)
+<h3>📊 Estatísticas</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nailan-Nobre&layout=compact&langs_count=10&theme=dark)
+<p align="left">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nailan-Nobre&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="420" style="width: 420px; height: auto; display: block; margin: 0 0 12px 0;" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nailan-Nobre&theme=github_dark" alt="Top Languages" width="420" style="width: 420px; height: auto; display: block; margin: 0;" />
+</p>
 
----
+<hr>
 
-## 🔥 Meus projetos
+<h2>🔥 Meus projetos</h2>
 
-- [Pretty Nails](https://fib-pretty-nails.vercel.app/) é um app de agendamento eficiente com manicures da sua região. Atualmente o app está na fase inicial do desenvolvimento, mas fique atento para as atualizações. O projeto foi criado durante as aulas do professor [Jader Abreu](https://github.com/jaderxnet) na matéria de Projeto integrador.
+<ul>
+	<li>
+	<a href="https://fib-pretty-nails.vercel.app/">Pretty Nails</a> é um app de agendamento eficiente com manicures da sua região. Atualmente o app está na fase inicial do desenvolvimento, mas fique atento para as atualizações. O projeto foi criado durante as aulas do professor <a href="https://github.com/jaderxnet">Jader Abreu</a> na matéria de Projeto integrador.
+	</li>
+	<li>
+	<a href="https://github.com/Nailan-Nobre/gran-turismo">GranTurismo</a> é um sistema de viagens. Com ele você pode criar pacotes turísticos e consultar preços. Ainda há nele a parte administrativa, como gerente de uma companhia aérea. O projeto foi criado durante as aulas do professor <a href="https://github.com/Mmessiaspm">Manoel Messias</a> na matéria de Programação orientada a objetos.
+	</li>
+ </ul>
 
-- [GranTurismo](https://github.com/Nailan-Nobre/gran-turismo) é um sistema de viagens. Com ele você pode criar pacotes turísticos e consultar preços. Ainda há nele a parte administrativa, como gerente de uma companhia aérea. O projeto foi criado durante as aulas do professor [Manoel Messias](https://github.com/Mmessiaspm) na matéria de Programação orientada a objetos.
----
+<hr>
 
-## 🎯 Meus Objetivos
+<h2>🎯 Meus Objetivos</h2>
 
-- Melhorar minhas habilidades de programação;  
-- Contribuir para mais projetos.
+<ul>
+	<li>Melhorar minhas habilidades de programação;</li>
+	<li>Contribuir para mais projetos.</li>
+</ul>
 
-<img src="https://i.gifer.com/origin/bc/bcbb9ef33e46f728908acea171722f83_w200.webp" width="150" alt="gato" />
+<p>
+	<img src="https://i.gifer.com/origin/bc/bcbb9ef33e46f728908acea171722f83_w200.webp" width="150" alt="gato" />
+</p>
 
----
+<hr>
 
-Confira minha página de desenhos no Instagram: [N2il2n](https://www.instagram.com/n2il2n/)
+<p>Confira minha página de desenhos no Instagram: <a href="https://www.instagram.com/n2il2n/">N2il2n</a></p>
+	</td>
+	</tr>
+	</table>
+</div>
