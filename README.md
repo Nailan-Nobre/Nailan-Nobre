@@ -13,8 +13,9 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 ### 📊 **Estatísticas**
 
 <p align="left">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nailan-Nobre&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="420" style="width: 420px; height: auto; display: block; margin: 0 0 12px 0;" />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nailan-Nobre&theme=github_dark" alt="Top Languages" width="420" style="width: 420px; height: auto; display: block; margin: 0;" />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nailan-Nobre&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="420" />
+	<br />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nailan-Nobre&theme=github_dark" alt="Top Languages" width="420" />
 </p>
 
 ---
