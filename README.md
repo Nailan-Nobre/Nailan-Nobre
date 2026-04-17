@@ -6,7 +6,7 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 ### 👨‍💻 Linguagens que estou aprendendo
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,py,java,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,py,java)](https://skillicons.dev)
 
 ---
 
