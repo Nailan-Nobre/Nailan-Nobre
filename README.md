@@ -22,7 +22,7 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 ## 🔥 Contribuição em projetos
 
-- [Pretty Nails](https://fib-pretty-nails.vercel.app/) é um app de agendamento eficiente com manicures da sua região. Atualmente o app está na fase inicial do desenvolvimento, mas fique atento para as atualizações. O projeto foi criado durante as aulas do professor [Jader Abreu](https://github.com/jaderxnet) na matéria de Projeto integrador. Atualmente é uma startup potencial valor.
+- [Pretty Nails](https://fib-pretty-nails.vercel.app/) é um app de agendamento eficiente com manicures da sua região. O projeto foi criado durante as aulas do professor [Jader Abreu](https://github.com/jaderxnet) na matéria de Projeto integrador. Atualmente é uma startup potencial valor.
 
 - [GranTurismo](https://github.com/Nailan-Nobre/gran-turismo) é um sistema de viagens. Com ele você pode criar pacotes turísticos e consultar preços. Ainda há nele a parte administrativa, como gerente de uma companhia aérea. O projeto foi criado durante as aulas do professor [Manoel Messias](https://github.com/Mmessiaspm) na matéria de Programação orientada a objetos.
 
