@@ -4,9 +4,18 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 ---
 
-### 👨‍💻 Linguagens que estou aprendendo
+### 👨‍💻 Linguagens estudadas
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,py,java)](https://skillicons.dev)
+
+---
+
+### 👨‍💻 Ferramentas utilizadas
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,unity,flstudio)](https://skillicons.dev) 
+
+![Krita](https://shields.io)
+![Aseprite](https://shields.io)
 
 ---
 
