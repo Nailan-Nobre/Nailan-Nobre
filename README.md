@@ -12,10 +12,10 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 ### 👨‍💻 Ferramentas utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,unity,flstudio)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,unity,flstudio)](https://skillicons.dev)
 
-![Krita](https://shields.io)
-![Aseprite](https://shields.io)
+<img src="https://libresprite.github.io/assets/ase.ico" width="55"/><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" width="55"/><img src="https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png" width="35"/>
+
 
 ---
 
