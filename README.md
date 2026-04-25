@@ -1,6 +1,6 @@
 ### 👋Olá, me chamo Nailan.
 
-Sou aluno do **Instituto Federal do Piauí em Picos**.
+![Banner Nailan](https://nailan-nobre.github.io/banco-de-imagens/img/banner-nailan.png)
 
 ---
 
