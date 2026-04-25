@@ -1,8 +1,4 @@
-### 👋Olá, me chamo Nailan.
-
 ![Banner Nailan](https://nailan-nobre.github.io/banco-de-imagens/img/banner-nailan.png)
-
----
 
 ### 👨‍💻 Linguagens estudadas
 
