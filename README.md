@@ -24,7 +24,9 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 <p align="left">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nailan-Nobre&theme=github_dark" alt="Nailan-Nobre GitHub Stats" width="420" />
 	<br />
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nailan-Nobre&theme=github_dark" alt="Top Languages" width="420" />
+	<img src="https://gh-stats-ruddy.vercel.app/api/langs?user=Nailan-Nobre&theme=dark" />
+	<br />
+	<img src= "https://gh-stats-ruddy.vercel.app/api/rpg?user=Nailan-Nobre&theme=dark" />
 </p>
 
 ---
