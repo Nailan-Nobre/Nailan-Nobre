@@ -37,6 +37,8 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 - [GranTurismo](https://github.com/Nailan-Nobre/gran-turismo) é um sistema de viagens. Com ele você pode criar pacotes turísticos e consultar preços. Ainda há nele a parte administrativa, como gerente de uma companhia aérea. O projeto foi criado durante as aulas do professor [Manoel Messias](https://github.com/Mmessiaspm) na matéria de Programação orientada a objetos.
 
+- [Sistema de presença](https://github.com/Nailan-Nobre/Sistema-de-presenca) é um sistema completo para realizar chamadas de alunos de uma determinada turma. A chamada é realizada pelo aluno, por meio de um qr code e uma lista de presença é gerada automaticamente. O projeto teve inicio em um evento da [Fábrica de integração](https://www.instagram.com/fabricadeintegracao?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+
 ---
 
 <img src="https://i.gifer.com/origin/bc/bcbb9ef33e46f728908acea171722f83_w200.webp" width="150" alt="gato" />
