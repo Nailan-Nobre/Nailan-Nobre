@@ -6,13 +6,13 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 ### 👨‍💻 Linguagens estudadas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,py,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cs,py,java,flutter,dart)](https://skillicons.dev)
 
 ---
 
 ### 👨‍💻 Ferramentas utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,unity,flstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,github,figma,unity)](https://skillicons.dev)
 
 <img src="https://libresprite.github.io/assets/ase.ico" width="55"/><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Calligrakrita-base.svg" width="55"/><img src="https://upload.wikimedia.org/wikipedia/en/6/69/FL_Studio_11_just_logo.png" width="35"/>
 
