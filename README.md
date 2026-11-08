@@ -32,12 +32,31 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 ---
 
 ## 🔥 Contribuição em projetos
+<table>
+<tr>
+	
+<td width="50%">
+<h4>💅<a href="https://pretty-nails-landing-page.vercel.app">Pretty Nails</a></h4>
+<p>É um app de agendamento eficiente com manicures da sua região. O projeto foi criado durante as aulas do professor <a href="https://github.com/jaderxnet">Jader Abreu</a> na matéria de Projeto integrador.</b>.</p>
+</td>
 
-- [Pretty Nails](https://pretty-nails-landing-page.vercel.app) é um app de agendamento eficiente com manicures da sua região. O projeto foi criado durante as aulas do professor [Jader Abreu](https://github.com/jaderxnet) na matéria de Projeto integrador. Atualmente é uma startup potencial valor.
+<td width="50%">
+<h4>🛫<a href="https://github.com/Nailan-Nobre/gran-turismo">GranTurismo</a></h4>
+<p>É um sistema de pacotes de viagem. O projeto foi criado durante as aulas do professor <a href="https://github.com/Mmessiaspm">Manoel Messias</a> na matéria de Programação orientada a objetos.</p>
+</td>
 
-- [GranTurismo](https://github.com/Nailan-Nobre/gran-turismo) é um sistema de viagens. Com ele você pode criar pacotes turísticos e consultar preços. Ainda há nele a parte administrativa, como gerente de uma companhia aérea. O projeto foi criado durante as aulas do professor [Manoel Messias](https://github.com/Mmessiaspm) na matéria de Programação orientada a objetos.
+</tr>
 
-- [Sistema de presença](https://github.com/Nailan-Nobre/Sistema-de-presenca) é um sistema completo para realizar chamadas de alunos de uma determinada turma. A chamada é realizada pelo aluno, por meio de um qr code e uma lista de presença é gerada automaticamente. O projeto teve inicio em um evento da [Fábrica de integração](https://www.instagram.com/fabricadeintegracao?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==).
+<tr>
+
+<td width="50%">
+<h4>🧑‍🏫<a href="https://github.com/Nailan-Nobre/Sistema-de-presenca">Sistema-de-presença</a></h4>
+<p>é um sistema completo para realizar chamadas de alunos de uma determinada turma. O projeto teve inicio em um hackaton da <a href="https://www.instagram.com/fabricadeintegracao?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==">Fábrica de integração</a></p>
+</td>
+
+</tr>
+
+</table>
 
 ---
 
