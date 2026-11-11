@@ -21,13 +21,18 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 ### 📊 **Estatísticas**
 
-<p align="left">
-	<img src="https://gh-stats-ruddy.vercel.app/api/activity?user=Nailan-Nobre&theme=dark"/>
-	<br />
-	<img src="https://gh-stats-ruddy.vercel.app/api/langs?user=Nailan-Nobre&theme=dark" />
-	<br />
-	<img src= "https://gh-stats-ruddy.vercel.app/api/rpg?user=Nailan-Nobre&theme=dark" />
-</p>
+<table>
+	<tr>
+		<td width="50%">
+			<img src="https://gh-stats-ruddy.vercel.app/api/langs?user=Nailan-Nobre&theme=dark" />
+		</td>
+		<td width="50%">
+			<img src= "https://gh-stats-ruddy.vercel.app/api/rpg?user=Nailan-Nobre&theme=dark" />
+		</td>
+	</tr>
+	
+</table>
+	
 
 ---
 
