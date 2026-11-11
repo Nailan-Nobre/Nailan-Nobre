@@ -42,7 +42,7 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 	
 <td width="50%">
 <h4>💅<a href="https://pretty-nails-landing-page.vercel.app">PrettyNails</a></h4>
-<p>É um app de agendamento eficiente com manicures da sua região. O projeto foi criado durante as aulas do professor <a href="https://github.com/jaderxnet">Jader Abreu</a> na matéria de Projeto integrador.</b>.</p>
+<p>É um app de agendamento eficiente com manicures da sua região. O projeto foi criado durante as aulas do professor <a href="https://github.com/jaderxnet">Jader Abreu</a> na matéria de Projeto integrador.</p>
 </td>
 
 <td width="50%">
@@ -66,12 +66,10 @@ Sou aluno do **Instituto Federal do Piauí em Picos**.
 
 </tr>
 
+<tr>
+<td colspan="2" align="center">
+<img src="https://gh-stats-ruddy.vercel.app/api/streak?user=Nailan-Nobre&theme=dark" alt="GitHub Streak" />
+</td>
+</tr>
+
 </table>
-
----
-
-<img src="https://i.gifer.com/origin/bc/bcbb9ef33e46f728908acea171722f83_w200.webp" width="150" alt="gato" />
-
----
-
-Confira minha página de desenhos no Instagram: [N2il2n](https://www.instagram.com/n2il2n/)
